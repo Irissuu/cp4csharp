@@ -77,6 +77,6 @@ dotnet run
 Para visualizar os dados diretamente no Oracle SQL Developer, use **aspas nos nomes das tabelas**:
 
 ```sql
-SELECT * FROM "Moto";
-SELECT * FROM "Vaga";
+SELECT * FROM "MotoCsharp";
+SELECT * FROM "VagaCsharp";
 
